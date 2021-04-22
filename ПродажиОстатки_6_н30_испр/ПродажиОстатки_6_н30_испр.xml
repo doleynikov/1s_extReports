@@ -6,23 +6,23 @@
 				<xr:ClassId>e41aff26-25cf-4bb6-b6c1-3f478a75f374</xr:ClassId>
 				<xr:ObjectId>7808f34e-c7a3-454a-a0b9-143b2b9b5f79</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalReportObject.ПродажиОстатки_н30_1" category="Object">
+			<xr:GeneratedType name="ExternalReportObject.ПродажиОстатки_н30_в9" category="Object">
 				<xr:TypeId>0bf861ab-4f00-463b-bba9-11f3799cead9</xr:TypeId>
 				<xr:ValueId>c9d5d3a9-5a20-4618-9d49-04df69c8c93d</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ПродажиОстатки_н30_1</Name>
+			<Name>ПродажиОстатки_н30_в9</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Продажи и Остатки н30 (исправлено)</v8:content>
+					<v8:content>Продажи и Остатки н30 (исправлено) </v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
 			<DefaultForm/>
 			<AuxiliaryForm/>
-			<MainDataCompositionSchema>ExternalReport.ПродажиОстатки_н30_1.Template.ОсновнаяСхемаКомпоновкиДанных</MainDataCompositionSchema>
+			<MainDataCompositionSchema>ExternalReport.ПродажиОстатки_н30_в9.Template.ОсновнаяСхемаКомпоновкиДанных</MainDataCompositionSchema>
 			<DefaultSettingsForm/>
 			<AuxiliarySettingsForm/>
 			<DefaultVariantForm/>

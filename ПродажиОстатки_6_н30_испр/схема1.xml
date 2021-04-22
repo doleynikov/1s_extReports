@@ -18,22 +18,32 @@
 			<role>
 				<dcscom:dimension>true</dcscom:dimension>
 			</role>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Счет</dataPath>
 			<field>Счет</field>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Субконто1</dataPath>
 			<field>Субконто1</field>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Субконто2</dataPath>
 			<field>Субконто2</field>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Валюта</dataPath>
 			<field>Валюта</field>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Товар</dataPath>
@@ -47,10 +57,14 @@
 			<role>
 				<dcscom:dimension>true</dcscom:dimension>
 			</role>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Организация</dataPath>
 			<field>Организация</field>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>ПродажиКоличество1</dataPath>
@@ -73,6 +87,7 @@
 					</dcscor:value>
 				</dcscor:item>
 			</appearance>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>ЦенаПоступления</dataPath>
@@ -83,14 +98,20 @@
 					<v8:content>Цена поступления</v8:content>
 				</v8:item>
 			</title>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Субконто3</dataPath>
 			<field>Субконто3</field>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Подразделение</dataPath>
 			<field>Подразделение</field>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>ЦенаРозница</dataPath>
@@ -101,6 +122,8 @@
 					<v8:content>Цена розница</v8:content>
 				</v8:item>
 			</title>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>ПродажиСумма1</dataPath>
@@ -111,6 +134,8 @@
 					<v8:content>Продажи сумма</v8:content>
 				</v8:item>
 			</title>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>СуммаПоЗакупке1</dataPath>
@@ -121,18 +146,26 @@
 					<v8:content>Сумма по закупке</v8:content>
 				</v8:item>
 			</title>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>ПодразделениеОтправитель</dataPath>
 			<field>ПодразделениеОтправитель</field>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Номенклатура</dataPath>
 			<field>Номенклатура</field>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Количество</dataPath>
 			<field>Количество</field>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>КоличествоОстаток</dataPath>
@@ -155,10 +188,13 @@
 					</dcscor:value>
 				</dcscor:item>
 			</appearance>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>ПодразделениеОрганизации</dataPath>
 			<field>ПодразделениеОрганизации</field>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>ВсегоОстаток</dataPath>
@@ -169,6 +205,8 @@
 					<v8:content>Всего остаток</v8:content>
 				</v8:item>
 			</title>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>НеПроведенныеКоличество</dataPath>
@@ -179,6 +217,8 @@
 					<v8:content>Не проведенные количество</v8:content>
 				</v8:item>
 			</title>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>УтилизацияКоличество</dataPath>
@@ -189,6 +229,8 @@
 					<v8:content>Утилизация количество</v8:content>
 				</v8:item>
 			</title>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>возвратУтилизацияКоличество</dataPath>
@@ -199,6 +241,8 @@
 					<v8:content>Возврат утилизация количество</v8:content>
 				</v8:item>
 			</title>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Списание_Количество</dataPath>
@@ -209,6 +253,8 @@
 					<v8:content>Списание количество</v8:content>
 				</v8:item>
 			</title>
+			<appearance/>
+			<inputParameters/>
 		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
@@ -618,7 +664,7 @@
 	ВТ444.ПродажиКоличество1 КАК ПродажиКоличество1,
 	ВЫРАЗИТЬ(ВТ444.ПродажиСумма1 КАК ЧИСЛО(15, 2)) КАК ПродажиСумма1,
 	ВЫРАЗИТЬ(ВТ444.СуммаПоЗакупке1 КАК ЧИСЛО(15, 2)) КАК СуммаПоЗакупке1,
-	ЕСТЬNULL(ВТ444.КоличествоОстаток, 0) + ЕСТЬNULL(ВЗ_НеПроведенные.Количество, 0) - ЕСТЬNULL(ВЗ_Утилизация.Количество, 0) + ЕСТЬNULL(ВЗ_возвратУтилизация.Количество, 0)+ ЕСТЬNULL(ВЗ_Списание.Количество, 0) КАК КоличествоОстаток,
+	ЕСТЬNULL(ВТ444.КоличествоОстаток, 0) + ЕСТЬNULL(ВЗ_НеПроведенные.Количество, 0) - ЕСТЬNULL(ВЗ_Утилизация.Количество, 0) + ЕСТЬNULL(ВЗ_возвратУтилизация.Количество, 0) КАК КоличествоОстаток,
 	ЕСТЬNULL(ВТ444.КоличествоОстаток, 0) КАК ВсегоОстаток,
 	ЕСТЬNULL(ВЗ_НеПроведенные.Количество, 0) КАК НеПроведенныеКоличество,
 	ЕСТЬNULL(ВЗ_Утилизация.Количество, 0) КАК УтилизацияКоличество,
@@ -679,7 +725,10 @@
 				ЛЕВОЕ СОЕДИНЕНИЕ Документ.СписаниеТоваров КАК СписаниеТоваров
 				ПО СписаниеТоваровТовары.Ссылка = СписаниеТоваров.Ссылка
 		ГДЕ
-			СписаниеТоваров.Дата &lt;= &amp;д2
+			(ПОДСТРОКА(СписаниеТоваров.Склад.Наименование, 1, 4) = "S001"
+					ИЛИ ПОДСТРОКА(СписаниеТоваров.Склад.Наименование, 1, 4) = "S003"
+					ИЛИ ПОДСТРОКА(СписаниеТоваров.Склад.Наименование, 1, 4) = "S100")
+			И СписаниеТоваров.Дата &lt;= &amp;д2
 			И СписаниеТоваров.Проведен
 			И НЕ СписаниеТоваров.ПометкаУдаления
 			И СписаниеТоваровТовары.Количество &gt; 0
@@ -737,6 +786,7 @@
 				<v8:content>Сумма остатка</v8:content>
 			</v8:item>
 		</title>
+		<appearance/>
 	</calculatedField>
 	<parameter>
 		<name>Период</name>
@@ -754,6 +804,7 @@
 		</valueType>
 		<value xsi:type="xs:dateTime">0001-01-01T00:00:00</value>
 		<useRestriction>false</useRestriction>
+		<inputParameters/>
 		<denyIncompleteValues>true</denyIncompleteValues>
 	</parameter>
 	<parameter>
@@ -809,6 +860,7 @@
 		<value xsi:type="xs:dateTime">0001-01-01T00:00:00</value>
 		<useRestriction>false</useRestriction>
 		<availableAsField>false</availableAsField>
+		<inputParameters/>
 		<use>Always</use>
 	</parameter>
 	<parameter>
@@ -855,6 +907,7 @@
 		</valueType>
 		<value xsi:nil="true"/>
 		<useRestriction>false</useRestriction>
+		<inputParameters/>
 		<denyIncompleteValues>true</denyIncompleteValues>
 	</parameter>
 	<parameter>
@@ -870,6 +923,7 @@
 		</valueType>
 		<value xsi:nil="true"/>
 		<useRestriction>false</useRestriction>
+		<inputParameters/>
 	</parameter>
 	<parameter>
 		<name>Номенклатура</name>
@@ -902,8 +956,9 @@
 		<valueType>
 			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.Контрагенты</v8:Type>
 		</valueType>
-		<value xsi:nil="true"/>
+		<value xsi:type="dcscor:DesignTimeValue"/>
 		<useRestriction>false</useRestriction>
+		<inputParameters/>
 	</parameter>
 	<settingsVariant>
 		<dcsset:name>Продажи и Остатки 6-1</dcsset:name>
@@ -1013,7 +1068,6 @@
 				</dcscor:item>
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:parameter>Номенклатура</dcscor:parameter>
-					<dcscor:value xsi:nil="true"/>
 					<dcsset:userSettingID>0c19d417-1671-4c58-8168-74025b8b793a</dcsset:userSettingID>
 				</dcscor:item>
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
@@ -1140,26 +1194,22 @@
 						<dcsset:field>СуммаОстатка</dcsset:field>
 					</dcsset:item>
 					<dcsset:item xsi:type="dcsset:SelectedItemField">
-						<dcsset:use>false</dcsset:use>
 						<dcsset:field>ВсегоОстаток</dcsset:field>
 					</dcsset:item>
 					<dcsset:item xsi:type="dcsset:SelectedItemField">
-						<dcsset:use>false</dcsset:use>
 						<dcsset:field>НеПроведенныеКоличество</dcsset:field>
 					</dcsset:item>
 					<dcsset:item xsi:type="dcsset:SelectedItemField">
-						<dcsset:use>false</dcsset:use>
 						<dcsset:field>УтилизацияКоличество</dcsset:field>
 					</dcsset:item>
 					<dcsset:item xsi:type="dcsset:SelectedItemField">
-						<dcsset:use>false</dcsset:use>
 						<dcsset:field>возвратУтилизацияКоличество</dcsset:field>
 					</dcsset:item>
 					<dcsset:item xsi:type="dcsset:SelectedItemField">
-						<dcsset:use>false</dcsset:use>
 						<dcsset:field>Списание_Количество</dcsset:field>
 					</dcsset:item>
 				</dcsset:selection>
+				<dcsset:outputParameters/>
 			</dcsset:item>
 		</dcsset:settings>
 	</settingsVariant>
